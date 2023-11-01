@@ -1,7 +1,7 @@
 # Product-Lists
 Creating products and manage properties.
 
---screanshots--
+--screenshots--
 
 ![SignIn](https://github.com/sumeyraltas/Product-Lists/assets/74320640/952515fa-dfbf-4007-9fb1-a2edc2ee2b84)
 
